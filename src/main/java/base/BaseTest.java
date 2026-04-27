@@ -10,7 +10,7 @@ public class BaseTest {
     public void setUp() {
         DriverFactory.initDriver();
         DriverFactory.getDriver().manage().window().maximize();
-        DriverFactory.getDriver().get("https://www.makemytrip.com/");
+        DriverFactory.getDriver().get("https://www.saucedemo.com/");
     }
 
     @AfterMethod

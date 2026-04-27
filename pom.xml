@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.mmt</groupId>
-    <artifactId>automation</artifactId>
+    <groupId>com.ecommerce</groupId>
+    <artifactId>automation-framework</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
